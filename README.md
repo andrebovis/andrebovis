@@ -1,16 +1,25 @@
-## Hi there 👋
+     Olá! Eu sou Andre Bovis Lucki 
 
-<!--
-**andrebovis/andrebovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software | Foco em Back-end
 
-Here are some ideas to get you started:
+Apaixonado por criar soluções robustas e escaláveis, com experiência em ecossistemas Java e Ruby on Rails. Atualmente focado em aprimorar a performance de aplicações web e desenvolver APIs de alta qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    Minha Stack de Tecnologias
+
+Aqui estão as principais ferramentas e tecnologias com as quais trabalho:
+
+     Tecnologias 
+  Back-end  Java, Spring Boot, Ruby on Rails 
+  Front-end  JavaScript, HTML, CSS |
+  Banco de Dados  PostgreSQL (SQL), MongoDB (NoSQL) 
+
+
+
+
+  Conecte-se comigo
+
+Você pode me encontrar e entrar em contato por aqui
+
+LinkedIn linkedin.com/in/andré-bovis-lucki-3a525931
+Email andre_bovis@hotmail.com
