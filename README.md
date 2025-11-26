@@ -1,3 +1,4 @@
+
      Olá! Eu sou Andre Bovis Lucki 
 
 Desenvolvedor de Software | Foco em Back-end
@@ -13,9 +14,6 @@ Aqui estão as principais ferramentas e tecnologias com as quais trabalho:
   Back-end  Java, Spring Boot, Ruby on Rails 
   Front-end  JavaScript, HTML, CSS |
   Banco de Dados  PostgreSQL (SQL), MongoDB (NoSQL) 
-
-
-
 
   Conecte-se comigo
 
